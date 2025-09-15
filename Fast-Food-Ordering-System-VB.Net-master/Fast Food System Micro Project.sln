@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Fast Food System Micro Project", "Fast Food System Micro Project\Fast Food System Micro Project.vbproj", "{C8080E5B-ABD6-4C34-9C0C-EE7D2E4F7ED8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Fast Food System", "Fast Food System\Fast Food System.vdproj", "{48BEEEF1-8E6C-4AEA-9749-81C89461850E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8080E5B-ABD6-4C34-9C0C-EE7D2E4F7ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8080E5B-ABD6-4C34-9C0C-EE7D2E4F7ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8080E5B-ABD6-4C34-9C0C-EE7D2E4F7ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8080E5B-ABD6-4C34-9C0C-EE7D2E4F7ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BEEEF1-8E6C-4AEA-9749-81C89461850E}.Debug|Any CPU.ActiveCfg = Debug
+		{48BEEEF1-8E6C-4AEA-9749-81C89461850E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86ADCD3A-4836-483B-ACA3-66604714E5D1}
+	EndGlobalSection
+EndGlobal
